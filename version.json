@@ -1,11 +1,11 @@
 {
-  "version": "1.0.2",
-  "versionCode": 10002,
+  "version": "1.0.8",
+  "versionCode": 10008,
   "major": 1,
   "minor": 0,
-  "patch": 2,
-  "downloadUrl": "https://github.com/zaman514-collab/expense-manager-releases/releases/download/v1.0.2/annual-expense-manager-v1.0.2.apk",
-  "apkUrl": "https://github.com/zaman514-collab/expense-manager-releases/releases/download/v1.0.2/annual-expense-manager-v1.0.2.apk",
-  "releaseNotes": "Annual Expense Manager update 1.0.2. Executive dashboard redesign, rolling base-10 versioning, and payee auto-learning.",
-  "updatedAt": "2026-10-16T18:26:15.691Z"
+  "patch": 8,
+  "downloadUrl": "https://github.com/zaman514-collab/expense-manager-releases/releases/download/v1.0.8/annual-expense-manager-v1.0.8.apk",
+  "apkUrl": "https://github.com/zaman514-collab/expense-manager-releases/releases/download/v1.0.8/annual-expense-manager-v1.0.8.apk",
+  "releaseNotes": "Annual Expense Manager v1.0.8 with executive dashboard redesign, rolling base-10 versioning, and payee auto-learning.",
+  "updatedAt": "2026-10-16T19:07:41.420Z"
 }
