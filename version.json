@@ -1,11 +1,11 @@
 {
-  "version": "1.1.4",
-  "versionCode": 10104,
+  "version": "1.1.6",
+  "versionCode": 10106,
   "major": 1,
   "minor": 1,
-  "patch": 4,
-  "downloadUrl": "https://github.com/zaman514-collab/expense-manager-releases/releases/download/v1.1.4/annual-expense-manager-v1.1.4.apk",
-  "apkUrl": "https://github.com/zaman514-collab/expense-manager-releases/releases/download/v1.1.4/annual-expense-manager-v1.1.4.apk",
-  "releaseNotes": "Annual Expense Manager v1.1.4 with permanent signing certificate, cumulative fiscal year rollover, and zero-loss backup & restore.",
-  "updatedAt": "2026-10-17T06:05:08.429Z"
+  "patch": 6,
+  "downloadUrl": "https://github.com/zaman514-collab/expense-manager-releases/releases/download/v1.1.6/annual-expense-manager-v1.1.6.apk",
+  "apkUrl": "https://github.com/zaman514-collab/expense-manager-releases/releases/download/v1.1.6/annual-expense-manager-v1.1.6.apk",
+  "releaseNotes": "Annual Expense Manager v1.1.6 with permanent signing certificate, cumulative fiscal year rollover, and zero-loss backup & restore.",
+  "updatedAt": "2026-10-18T04:16:03.831Z"
 }
